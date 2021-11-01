@@ -1,1 +1,1 @@
-web: gunincorn manage.py
+web:gunicorn SillsConnect.wsgi
