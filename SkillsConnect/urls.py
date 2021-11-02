@@ -18,8 +18,12 @@ from django.urls import path, include
 import debug_toolbar
 
 # Playground/hello
+from playground import views
+
 urlpatterns = [
+    path('', views.index),
     path('admin/', admin.site.urls),
-    path('playground/', include('playground.urls')),
+#    path('playground/', include('playground.urls')),
     path('__debug__/', include(debug_toolbar.urls)),
+
 ]
