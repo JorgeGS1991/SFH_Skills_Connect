@@ -154,7 +154,7 @@ pyobjc-framework-VideoToolbox==7.3
 pyobjc-framework-Virtualization==7.3
 pyobjc-framework-Vision==7.3
 pyobjc-framework-WebKit==7.3
-python-dateutil==2.8.2
+python-dateutil==2.9.9
 pytz==2021.1
 random-audio==1.0.1
 requests==2.26.0
