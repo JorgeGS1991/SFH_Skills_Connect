@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SkillsConnect/rocky-caverns-02008" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/django-debug-toolbar" vcs="Git" />
   </component>
 </project>
