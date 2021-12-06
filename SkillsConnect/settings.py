@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.sites',
     'playground',
-    'debug_toolbar',
+
+'debug_toolbar',
 
 ]
 SITE_ID = 1
